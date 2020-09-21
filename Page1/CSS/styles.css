@@ -1,0 +1,277 @@
+*{
+	margin:0px;
+	padding:0px;
+
+}
+#maindiv{
+max-width:1370px;
+margin:0px auto;
+background-color:#FFFAF0;
+}
+
+
+#header{
+	max-width:1370px;
+	min-height:100px;
+	position:relative;
+	top:0px;
+
+}
+
+
+.font {
+text-align:center;
+font-size:30px;
+margin-top:20px;
+}
+
+
+
+
+
+
+
+#above1{
+	max-width:1370px;
+
+	min-height:300px;
+  text-align:center;
+
+	position:relative;
+	top:20px;
+  border:1px black solid;
+
+}
+.aboveleft1{
+
+float:left;
+
+position:relative;
+top:10px;
+left:50px;
+	}
+
+
+
+
+
+
+.aboveright1{
+
+  float:right;
+  position:relative;
+  top:10px;
+  right:200px;
+
+
+
+}
+
+#above1 td{
+  font-size:30px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#above2{
+	max-width:1370px;
+	min-height:100px;
+	position:relative;
+	top:0px;
+
+}
+
+
+.font1 {
+font-size:30px;
+margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#above3{
+	max-width:1370px;
+
+	min-height:200px;
+  text-align:center;
+
+	position:relative;
+	top:20px;
+  border:1px black solid;
+
+}
+.aboveleft3{
+
+float:left;
+
+position:relative;
+top:10px;
+left:50px;
+	}
+
+
+
+
+
+
+.aboveright3{
+
+  float:right;
+  position:relative;
+  top:10px;
+  right:200px;
+
+
+
+}
+
+#above3 td{
+  font-size:30px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+#above4{
+	max-width:1370px;
+	min-height:400px;
+  text-align:center;
+
+
+	position:relative;
+	top:0px;
+}
+.aboveleft4{
+
+  min-height:400px;
+float:left;
+font-size: 30px;
+position:relative;
+top:10px;
+	}
+
+
+
+
+
+.aboveright4{
+
+max-width:900px;
+min-height:400px;
+  float:right;
+  position:relative;
+  top:10px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#above4 th{
+
+padding:20px;
+
+}
+
+#above4 td{
+
+
+}
+
+
+
+
+
+
+
+
+
+#above5{
+	max-width:1370px;
+min-height:800px;
+	position:relative;
+	top:20px;
+  border:1px black solid;
+
+}
+
+.aboveleft5{
+width:600px;
+float:left;
+
+position:relative;
+top:10px;
+font-size:20px;
+padding:20px;
+	}
+
+
+
+
+
+
+.aboveright5{
+  float:right;
+  position:relative;
+  top:10px;
+right:50px;
+font-size:30px;
+
+}
+.result3{
+  text-decoration:underline;
+}
